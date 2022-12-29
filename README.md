@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niko Kiuru</h1>
-<h3 align="center">I'm a passionate Software Engineer from Finland</h3>
+<h3 align="center">I'm a passionate Software Architect from Finland</h3>
 
-- 🔭 I’m currently working on [Tabella Finland Oy](https://www.tabella.fi)
+- 🔭 I’m currently working on [insightsoftware](https://insightsoftware.com/)
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 MSc of **Cyber Security**
 
 - 📫 How to reach me **niko@kiuru.net**
 
